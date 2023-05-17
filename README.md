@@ -21,6 +21,29 @@
         </div>
         <div id="ToolUsed">
                 <h2>Tools Used</h2>
-                <img src="	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="">
+                <img src"https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="">
                 <img src="https://img.shields.io/badge/Apache_HTTP_Server-EA2328?style=for-the-badge&logo=Apache&logoColor=white" alt="">
         </div>
+		<div>
+			<h2>System Requirements</h2>
+			<div>
+				<h5>1. For Installing Ubantu on Virtual Host</h5>
+				<ul>
+					<li>
+						Operating System Version - Microsoft Windows 10 (32-bit
+						or 64-bit).
+					</li>
+					<li>
+						Random Access Memory (RAM) - Minimum 4 GB RAM
+						recommended.
+					</li>
+					<li>
+						Free Disk Space - Minimum 25 GB free space recommended.
+					</li>
+					<li>
+						Good Internet Connection to download the VirtualBox and
+						Ubuntu ISO file.
+					</li>
+				</ul>
+                                <strong>Note: If your PC is HP is possible you need to activate the <a href="https://support.hp.com/in-en/document/c04760917">HP BIOS Virtualization Technology</a></strong>
+			</div>
